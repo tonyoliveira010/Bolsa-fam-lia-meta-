@@ -1,0 +1,6 @@
+{
+  "name": "Mobbin — UI & UX Design Reference Library",
+  "description": "Discover real-world design inspiration with the world's largest mobile and web design reference library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
